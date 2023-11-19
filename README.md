@@ -26,8 +26,8 @@ Currently working with Robotic Process Automation, but I love learn new thing in
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=AgatZCode&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgatZCode&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=agatdwi&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agatdwi&layout=compact" height=180 />
 </p>
 
 <p align="center"> 
