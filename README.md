@@ -1,4 +1,5 @@
 # Hi there 👋 , I'm AgatZ!
+ini merupakan akun kedua saya
 Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, C++, C, Java, C#, GO, Python.  
 
 ### Tools:
@@ -34,7 +35,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
   <img src="https://profile-counter.glitch.me/yuzuhoshinova/count.svg" />
 </p>
 
-<div align="center">
+<div align="center"> 
   <picture>
       <source
     media="(prefers-color-scheme: dark)"
