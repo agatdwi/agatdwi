@@ -1,5 +1,6 @@
 # Hi there 👋 , I'm AgatZ!
-ini merupakan akun kedua saya
+this is my second account
+
 Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, C++, C, Java, C#, GO, Python.  
 
 ### Tools:
