@@ -31,11 +31,6 @@ Currently working with Robotic Process Automation, but I love learn new thing in
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agatdwi&layout=compact" height=180 />
 </p>
 
-### 💚 Fake Full Contribution Graph (Just for Fun)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/latesturl/LatestX-green/main/grid.svg" alt="Fake Green GitHub Contribution Graph" />
-</p>
-
 <p align="center"> 
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/yuzuhoshinova/count.svg" />
@@ -56,6 +51,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
       src="https://raw.githubusercontent.com/xct007/xct007/output/github-contribution-grid-snake.svg"
       />
   </picture>
+
 </div>
 
 ### Let's connect!
